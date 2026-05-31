@@ -1,11 +1,11 @@
-#Calculadora Pixel
+# Calculadora Pixel
 
 <img width="1360" height="768" alt="Captura de Tela (67)" src="https://github.com/user-attachments/assets/50d25294-ce20-4425-96fd-321a40e9b048" />
 
 
 Uma calculadora retrô estilo pixel art, em tons de rosa, feita com HTML, CSS e JavaScript.
 
-##Sobre o Projeto
+## Sobre o Projeto
 
 Uma calculadora inspirada nos jogos e interfaces dos anos 90, com design totalmente pixelado e tema rosa. Feita para ser divertida, funcional e esteticamente agradável.
 
